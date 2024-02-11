@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-from InvertedPendulum import InvertedPendulum
+from src.InvertedPendulum import InvertedPendulum
 
 from scipy.integrate import solve_ivp
 import control
